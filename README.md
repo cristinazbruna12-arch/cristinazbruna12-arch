@@ -34,7 +34,7 @@ Sou movida pela curiosidade e pelo amor em resolver problemas através do códig
 
 ### Projeto 1
 > Breve descrição do que torna este projeto especial
-- [Repositório](https://github.com/cristinazbruna12-arch/projeto-1)
+- [Repositório](https://github.com/cristinazbruna12-arch/python-basic-project)
 
 ### Projeto 2
 > Breve descrição do que torna este projeto especial
